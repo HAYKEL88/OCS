@@ -1,0 +1,6 @@
+C:\Users\OUHICHI\Desktop\SLEAM5\OCS\Projet_Fresh_Vase\WORKSPACE_OCS\Demo\Demo\bin\Debug\Demo.dll
+C:\Users\OUHICHI\Desktop\SLEAM5\OCS\Projet_Fresh_Vase\WORKSPACE_OCS\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\OUHICHI\Desktop\SLEAM5\OCS\Projet_Fresh_Vase\WORKSPACE_OCS\Demo\Demo\bin\Debug\Beans.dll
+C:\Users\OUHICHI\Desktop\SLEAM5\OCS\Projet_Fresh_Vase\WORKSPACE_OCS\Demo\Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\OUHICHI\Desktop\SLEAM5\OCS\Projet_Fresh_Vase\WORKSPACE_OCS\Demo\Demo\obj\x86\Debug\Demo.dll
+C:\Users\OUHICHI\Desktop\SLEAM5\OCS\Projet_Fresh_Vase\WORKSPACE_OCS\Demo\Demo\obj\x86\Debug\Demo.pdb
